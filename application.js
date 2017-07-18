@@ -1,1 +1,1 @@
-console.log(jQuery);
+console.log('jQuery: %o', jQuery);
